@@ -1,6 +1,6 @@
 ### Hello world! 👋
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=alvintanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" />
+  <img src="https://komarev.com/ghpvc/?username=alvintanoto&label=Profile%20views&color=0e75b6&style=flat" alt="alvintanoto" />
 </p>
 
 - Software Engineer Based in 🇮🇩
