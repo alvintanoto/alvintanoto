@@ -8,8 +8,6 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alvintanoto&show_icons=true&theme=merko&count_private=true" />
 <img align="center" height="150px"/>
 
-![Discord Banner 2](https://discordapp.com/api/guilds/786315382352379934/widget.png?style=banner2)
-
 <h3>Check out my apps!</h3>
 <a href="https://play.google.com/store/apps/dev?id=6134309794517177942" target="_blank" rel="noreferrer">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/>
