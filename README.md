@@ -13,34 +13,11 @@
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/>
 </a>
 
-<h3 align="left">Backend Stack:</h3>
+<h3 align="left">Current Stack:</h3>
 <p align="left">
   <a href="https://go.dev" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/
-  </a>
-</p>
-
-<h3 align="left">Frontend Stack:</h3>
-<p align="left">
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/
-  </a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/
-  </a>
-  <a href="https://nuxtjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" width="40" height="40"/
-  </a>
-</p>
-
-<h3 align="left">Mobile Stack:</h3>
-<p align="left">
   <a href="https://www.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/
   </a>
