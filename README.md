@@ -3,10 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=alvintanoto&label=Profile%20views&color=0e75b6&style=flat" alt="alvintanoto" />
 </p>
 
-- Software Engineer Based in 🇮🇩
-
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alvintanoto&show_icons=true&theme=merko&count_private=true" />
-<img align="center" height="150px"/>
+Software Engineer Based in 🇮🇩
 
 <h3>Check out my apps!</h3>
 <a href="https://play.google.com/store/apps/dev?id=6134309794517177942" target="_blank" rel="noreferrer">
