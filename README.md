@@ -5,15 +5,13 @@
 
 Software Engineer Based in 🇮🇩
 
-<h3>Check out my apps!</h3>
-<a href="https://play.google.com/store/apps/dev?id=6134309794517177942" target="_blank" rel="noreferrer">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/>
-</a>
-
 <h3 align="left">Current Stack:</h3>
 <p align="left">
   <a href="https://go.dev" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+  </a>
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="go" width="40" height="40" />
   </a>
 </p>
 
