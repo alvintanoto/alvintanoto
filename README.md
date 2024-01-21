@@ -10,9 +10,6 @@ Software Engineer Based in 🇮🇩
   <a href="https://go.dev" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
   </a>
-  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="go" width="40" height="40" />
-  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
